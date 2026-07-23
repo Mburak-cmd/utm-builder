@@ -1,0 +1,506 @@
+{
+  "havelsan.com/en/solutions/training-management-information-system": {
+    "url": "https://havelsan.com/en/solutions/training-management-information-system",
+    "type": "Solution",
+    "name": "Training Management Information System",
+    "code": "tmi"
+  },
+  "havelsan.com/en/artemis-air-traffic-control-training-simulator": {
+    "url": "https://www.havelsan.com/en/artemis-air-traffic-control-training-simulator",
+    "type": "Page",
+    "name": "Artemis Air Traffic Control Training Simulator",
+    "code": "aatcts"
+  },
+  "havelsan.com/en/cyber-security-services": {
+    "url": "https://www.havelsan.com/en/cyber-security-services",
+    "type": "Solution",
+    "name": "Cyber Security Services",
+    "code": "css"
+  },
+  "havelsan.com/en/cyber-security-services/analysis-and-test-team-service": {
+    "url": "https://www.havelsan.com/en/cyber-security-services/analysis-and-test-team-service",
+    "type": "Solution",
+    "name": "Analysis And Test Team Service",
+    "code": "atts"
+  },
+  "havelsan.com/en/cyber-security-services/cyber-security-academy": {
+    "url": "https://www.havelsan.com/en/cyber-security-services/cyber-security-academy",
+    "type": "Solution",
+    "name": "Cyber Security Academy",
+    "code": "csa"
+  },
+  "havelsan.com/en/cyber-security-services/cyber-security-consultancy": {
+    "url": "https://www.havelsan.com/en/cyber-security-services/cyber-security-consultancy",
+    "type": "Solution",
+    "name": "Cyber Security Consultancy",
+    "code": "csc"
+  },
+  "havelsan.com/en/cyber-security-services/information-systems-security-audit": {
+    "url": "https://www.havelsan.com/en/cyber-security-services/information-systems-security-audit",
+    "type": "Solution",
+    "name": "Information Systems Security Audit",
+    "code": "isa"
+  },
+  "havelsan.com/en/poyraz-drone": {
+    "url": "https://www.havelsan.com/en/poyraz-drone",
+    "type": "Page",
+    "name": "Poyraz Drone",
+    "code": "pd"
+  },
+  "havelsan.com/en/products/baha-subcloud-autonomous-uav": {
+    "url": "https://www.havelsan.com/en/products/baha-subcloud-autonomous-uav",
+    "type": "Product",
+    "name": "Baha Subcloud Autonomous UAV",
+    "code": "baha"
+  },
+  "havelsan.com/en/products/barkan-2-autonomous-ugv": {
+    "url": "https://www.havelsan.com/en/products/barkan-2-autonomous-ugv",
+    "type": "Product",
+    "name": "Barkan 2 Autonomous UGV",
+    "code": "barkan2"
+  },
+  "havelsan.com/en/products/barkan-autonomous-ugv": {
+    "url": "https://www.havelsan.com/en/products/barkan-autonomous-ugv",
+    "type": "Product",
+    "name": "Barkan Autonomous UGV",
+    "code": "barkan"
+  },
+  "havelsan.com/en/products/bozbey-uav": {
+    "url": "https://www.havelsan.com/en/products/bozbey-uav",
+    "type": "Product",
+    "name": "Bozbey UAV",
+    "code": "uav"
+  },
+  "havelsan.com/en/products/bulut-autonomous-uav": {
+    "url": "https://www.havelsan.com/en/products/bulut-autonomous-uav",
+    "type": "Product",
+    "name": "Bulut Autonomous UAV",
+    "code": "uav"
+  },
+  "havelsan.com/en/products/cabin-management-systems": {
+    "url": "https://www.havelsan.com/en/products/cabin-management-systems",
+    "type": "Product",
+    "name": "Cabin Management Systems",
+    "code": "cm"
+  },
+  "havelsan.com/en/products/caka-unmanned-surface-vehicles": {
+    "url": "https://www.havelsan.com/en/products/caka-unmanned-surface-vehicles",
+    "type": "Product",
+    "name": "Caka Unmanned Surface Vehicles",
+    "code": "cusv"
+  },
+  "havelsan.com/en/products/data-flow-x-data-diode": {
+    "url": "https://www.havelsan.com/en/products/data-flow-x-data-diode",
+    "type": "Product",
+    "name": "Data Flow X Data Diode",
+    "code": "dataflowx"
+  },
+  "havelsan.com/en/products/data-plato-analytics-platform": {
+    "url": "https://www.havelsan.com/en/products/data-plato-analytics-platform",
+    "type": "Product",
+    "name": "Data Plato Analytics Platform",
+    "code": "dpa"
+  },
+  "havelsan.com/en/products/depo-secure-storage-sharing-platform": {
+    "url": "https://www.havelsan.com/en/products/depo-secure-storage-sharing-platform",
+    "type": "Product",
+    "name": "Depo Secure Storage Sharing Platform",
+    "code": "depo"
+  },
+  "havelsan.com/en/products/diyalog": {
+    "url": "https://www.havelsan.com/en/products/diyalog",
+    "type": "Product",
+    "name": "Diyalog",
+    "code": "diyalog"
+  },
+  "havelsan.com/en/products/drive-data-storage-and-sharing-platform": {
+    "url": "https://www.havelsan.com/en/products/drive-data-storage-and-sharing-platform",
+    "type": "Product",
+    "name": "Drive Data Storage And Sharing Platform",
+    "code": "drive"
+  },
+  "havelsan.com/en/products/eksen-software-development-infrastructure": {
+    "url": "https://www.havelsan.com/en/products/eksen-software-development-infrastructure",
+    "type": "Product",
+    "name": "Eksen Software Development Infrastructure",
+    "code": "esdi"
+  },
+  "havelsan.com/en/products/ethernet-switch": {
+    "url": "https://www.havelsan.com/en/products/ethernet-switch",
+    "type": "Product",
+    "name": "Ethernet Switch",
+    "code": "es"
+  },
+  "havelsan.com/en/products/evraka-electronic-document-management-system": {
+    "url": "https://www.havelsan.com/en/products/evraka-electronic-document-management-system",
+    "type": "Product",
+    "name": "Evraka Electronic Document Management System",
+    "code": "eedm"
+  },
+  "havelsan.com/en/products/eyeminer-video-analytic-system-iot": {
+    "url": "https://www.havelsan.com/en/products/eyeminer-video-analytic-system-iot",
+    "type": "Product",
+    "name": "Eyeminer Video Analytic System IoT",
+    "code": "eyeminer"
+  },
+  "havelsan.com/en/products/fleetstar": {
+    "url": "https://www.havelsan.com/en/products/fleetstar",
+    "type": "Product",
+    "name": "Fleetstar",
+    "code": "fleetstar"
+  },
+  "havelsan.com/en/products/flight-training-devices": {
+    "url": "https://www.havelsan.com/en/products/flight-training-devices",
+    "type": "Product",
+    "name": "Flight Training Devices",
+    "code": "ftd"
+  },
+  "havelsan.com/en/products/full-flight-simulators": {
+    "url": "https://www.havelsan.com/en/products/full-flight-simulators",
+    "type": "Product",
+    "name": "Full Flight Simulators",
+    "code": "ffs"
+  },
+  "havelsan.com/en/products/gnss-receiver": {
+    "url": "https://www.havelsan.com/en/products/gnss-receiver",
+    "type": "Product",
+    "name": "GNSS Receiver",
+    "code": "gnss"
+  },
+  "havelsan.com/en/products/ground-control-stations": {
+    "url": "https://www.havelsan.com/en/products/ground-control-stations",
+    "type": "Product",
+    "name": "Ground Control Stations",
+    "code": "gcs"
+  },
+  "havelsan.com/en/products/havelsan-timemaster": {
+    "url": "https://www.havelsan.com/en/products/havelsan-timemaster",
+    "type": "Product",
+    "name": "Havelsan Timemaster",
+    "code": "ht"
+  },
+  "havelsan.com/en/products/in-flight-entertainment-systems": {
+    "url": "https://www.havelsan.com/en/products/in-flight-entertainment-systems",
+    "type": "Product",
+    "name": "In Flight Entertainment Systems",
+    "code": "ife"
+  },
+  "havelsan.com/en/products/joint-terminal-attack-controller-jtac-simulator": {
+    "url": "https://www.havelsan.com/en/products/joint-terminal-attack-controller-jtac-simulator",
+    "type": "Product",
+    "name": "Joint Terminal Attack Controller JTAC Simulator",
+    "code": "jtac"
+  },
+  "havelsan.com/en/products/kapgan-middle-class-2-autonomous-ugv": {
+    "url": "https://www.havelsan.com/en/products/kapgan-middle-class-2-autonomous-ugv",
+    "type": "Product",
+    "name": "Kapgan Middle Class 2 Autonomous UGV",
+    "code": "ugv"
+  },
+  "havelsan.com/en/products/kasif-gis": {
+    "url": "https://www.havelsan.com/en/products/kasif-gis",
+    "type": "Product",
+    "name": "Kasif GIS",
+    "code": "kasif"
+  },
+  "havelsan.com/en/products/kask-gnss-protection-system": {
+    "url": "https://www.havelsan.com/en/products/kask-gnss-protection-system",
+    "type": "Product",
+    "name": "Kask GNSS Protection System",
+    "code": "kask"
+  },
+  "havelsan.com/en/products/kovan-new-generation-business-management-system": {
+    "url": "https://www.havelsan.com/en/products/kovan-new-generation-business-management-system",
+    "type": "Product",
+    "name": "Kovan New Generation Business Management System",
+    "code": "kovan"
+  },
+  "havelsan.com/en/products/liman-windows-linux-management-system": {
+    "url": "https://www.havelsan.com/en/products/liman-windows-linux-management-system",
+    "type": "Product",
+    "name": "Liman Windows Linux Management System",
+    "code": "lwlm"
+  },
+  "havelsan.com/en/products/main-enterprise-ai-platform": {
+    "url": "https://www.havelsan.com/en/products/main-enterprise-ai-platform",
+    "type": "Product",
+    "name": "Main Enterprise AI Platform",
+    "code": "main"
+  },
+  "havelsan.com/en/products/odak-en": {
+    "url": "https://www.havelsan.com/en/products/odak-en",
+    "type": "Product",
+    "name": "Odak",
+    "code": "odak"
+  },
+  "havelsan.com/en/products/parachute-simulator": {
+    "url": "https://www.havelsan.com/en/products/parachute-simulator",
+    "type": "Product",
+    "name": "Parachute Simulator",
+    "code": "ps"
+  },
+  "havelsan.com/en/products/prime": {
+    "url": "https://www.havelsan.com/en/products/prime",
+    "type": "Product",
+    "name": "Prime",
+    "code": "prime"
+  },
+  "havelsan.com/en/products/sancar-armed-usv": {
+    "url": "https://www.havelsan.com/en/products/sancar-armed-usv",
+    "type": "Product",
+    "name": "Sancar Armed USV",
+    "code": "sancar"
+  },
+  "havelsan.com/en/products/shooting-simulator": {
+    "url": "https://www.havelsan.com/en/products/shooting-simulator",
+    "type": "Product",
+    "name": "Shooting Simulator",
+    "code": "ss"
+  },
+  "havelsan.com/en/products/sniper-simulator": {
+    "url": "https://www.havelsan.com/en/products/sniper-simulator",
+    "type": "Product",
+    "name": "Sniper Simulator",
+    "code": "sniper"
+  },
+  "havelsan.com/en/products/substar": {
+    "url": "https://www.havelsan.com/en/products/substar",
+    "type": "Product",
+    "name": "Substar",
+    "code": "substar"
+  },
+  "havelsan.com/en/products/tactical-and-special-purpose-mission-displays": {
+    "url": "https://www.havelsan.com/en/products/tactical-and-special-purpose-mission-displays",
+    "type": "Product",
+    "name": "Tactical And Special Purpose Mission Displays",
+    "code": "tspmd"
+  },
+  "havelsan.com/en/products/vertical-wind-simulator": {
+    "url": "https://www.havelsan.com/en/products/vertical-wind-simulator",
+    "type": "Product",
+    "name": "Vertical Wind Simulator",
+    "code": "vws"
+  },
+  "havelsan.com/en/solutions/4th-generation-submarine-cms": {
+    "url": "https://www.havelsan.com/en/solutions/4th-generation-submarine-cms",
+    "type": "Solution",
+    "name": "4th Generation Submarine CMS",
+    "code": "cms"
+  },
+  "havelsan.com/en/solutions/advent-combat-management-system": {
+    "url": "https://www.havelsan.com/en/solutions/advent-combat-management-system",
+    "type": "Solution",
+    "name": "Advent Combat Management System",
+    "code": "advent"
+  },
+  "havelsan.com/en/solutions/advent-marti-en": {
+    "url": "https://www.havelsan.com/en/solutions/advent-marti-en",
+    "type": "Solution",
+    "name": "Advent Marti",
+    "code": "advent_marti"
+  },
+  "havelsan.com/en/solutions/aiccs-air-force-information-system": {
+    "url": "https://www.havelsan.com/en/solutions/aiccs-air-force-information-system",
+    "type": "Solution",
+    "name": "AICCS Air Force Information System",
+    "code": "aiccs"
+  },
+  "havelsan.com/en/solutions/air-platform-systems": {
+    "url": "https://www.havelsan.com/en/solutions/air-platform-systems",
+    "type": "Solution",
+    "name": "Air Platform Systems",
+    "code": "air"
+  },
+  "havelsan.com/en/solutions/bluesafe": {
+    "url": "https://www.havelsan.com/en/solutions/bluesafe",
+    "type": "Solution",
+    "name": "Bluesafe",
+    "code": "bluesafe"
+  },
+  "havelsan.com/en/solutions/bluevision": {
+    "url": "https://www.havelsan.com/en/solutions/bluevision",
+    "type": "Solution",
+    "name": "Bluevision",
+    "code": "bluevision"
+  },
+  "havelsan.com/en/solutions/cbrn-management-information-system": {
+    "url": "https://www.havelsan.com/en/solutions/cbrn-management-information-system",
+    "type": "Solution",
+    "name": "CBRN Management Information System",
+    "code": "cbrn_mis"
+  },
+  "havelsan.com/en/solutions/cengaver-digital-soldier": {
+    "url": "https://www.havelsan.com/en/solutions/cengaver-digital-soldier",
+    "type": "Solution",
+    "name": "Cengaver Digital Soldier",
+    "code": "cds"
+  },
+  "havelsan.com/en/solutions/computer-based-training": {
+    "url": "https://www.havelsan.com/en/solutions/computer-based-training",
+    "type": "Solution",
+    "name": "Computer Based Training",
+    "code": "cbt"
+  },
+  "havelsan.com/en/solutions/doob-command-and-control-system": {
+    "url": "https://www.havelsan.com/en/solutions/doob-command-and-control-system",
+    "type": "Solution",
+    "name": "Doob Command And Control System",
+    "code": "dcc"
+  },
+  "havelsan.com/en/solutions/eagle-airborne-warning-and-command-control-system": {
+    "url": "https://www.havelsan.com/en/solutions/eagle-airborne-warning-and-command-control-system",
+    "type": "Solution",
+    "name": "Eagle Airborne Warning And Command Control System",
+    "code": "eawcc"
+  },
+  "havelsan.com/en/solutions/electronic-warfare-test-and-training-range-ewttr": {
+    "url": "https://www.havelsan.com/en/solutions/electronic-warfare-test-and-training-range-ewttr",
+    "type": "Solution",
+    "name": "Electronic Warfare Test And Training Range EWTTR",
+    "code": "ewttr"
+  },
+  "havelsan.com/en/solutions/engineering-simulators": {
+    "url": "https://www.havelsan.com/en/solutions/engineering-simulators",
+    "type": "Solution",
+    "name": "Engineering Simulators",
+    "code": "es"
+  },
+  "havelsan.com/en/solutions/fixed-wing-training-centers": {
+    "url": "https://www.havelsan.com/en/solutions/fixed-wing-training-centers",
+    "type": "Solution",
+    "name": "Fixed Wing Training Centers",
+    "code": "fwtc"
+  },
+  "havelsan.com/en/solutions/h-cms-holographic-combat-management-system": {
+    "url": "https://www.havelsan.com/en/solutions/h-cms-holographic-combat-management-system",
+    "type": "Solution",
+    "name": "H CMS Holographic Combat Management System",
+    "code": "cms"
+  },
+  "havelsan.com/en/solutions/have-holographic-air-virtual-environment": {
+    "url": "https://www.havelsan.com/en/solutions/have-holographic-air-virtual-environment",
+    "type": "Solution",
+    "name": "Have Holographic Air Virtual Environment",
+    "code": "hhave"
+  },
+  "havelsan.com/en/solutions/health-simulation-systems": {
+    "url": "https://www.havelsan.com/en/solutions/health-simulation-systems",
+    "type": "Solution",
+    "name": "Health Simulation Systems",
+    "code": "hs"
+  },
+  "havelsan.com/en/solutions/hotbox-holographic-tactical-sandbox": {
+    "url": "https://www.havelsan.com/en/solutions/hotbox-holographic-tactical-sandbox",
+    "type": "Solution",
+    "name": "Hotbox Holographic Tactical Sandbox",
+    "code": "hhts"
+  },
+  "havelsan.com/en/solutions/image-generating-software-mantis": {
+    "url": "https://www.havelsan.com/en/solutions/image-generating-software-mantis",
+    "type": "Solution",
+    "name": "Image Generating Software Mantis",
+    "code": "igsm"
+  },
+  "havelsan.com/en/solutions/independent-fleet-level-mission-planning": {
+    "url": "https://www.havelsan.com/en/solutions/independent-fleet-level-mission-planning",
+    "type": "Solution",
+    "name": "Independent Fleet Level Mission Planning",
+    "code": "iflmp"
+  },
+  "havelsan.com/en/solutions/land-platform-systems": {
+    "url": "https://www.havelsan.com/en/solutions/land-platform-systems",
+    "type": "Solution",
+    "name": "Land Platform Systems",
+    "code": "land"
+  },
+  "havelsan.com/en/solutions/malazgirt-serious-game-infrastructure": {
+    "url": "https://www.havelsan.com/en/solutions/malazgirt-serious-game-infrastructure",
+    "type": "Solution",
+    "name": "Malazgirt Serious Game Infrastructure",
+    "code": "malazgirt"
+  },
+  "havelsan.com/en/solutions/matra-digital-maritime-solutions": {
+    "url": "https://www.havelsan.com/en/solutions/matra-digital-maritime-solutions",
+    "type": "Solution",
+    "name": "Matra Digital Maritime Solutions",
+    "code": "matra"
+  },
+  "havelsan.com/en/solutions/military-operation-urban-terrain-mout-training-center": {
+    "url": "https://www.havelsan.com/en/solutions/military-operation-urban-terrain-mout-training-center",
+    "type": "Solution",
+    "name": "Military Operation Urban Terrain MOUT Training Center",
+    "code": "mout"
+  },
+  "havelsan.com/en/solutions/munition-scoring-system-hmuss": {
+    "url": "https://www.havelsan.com/en/solutions/munition-scoring-system-hmuss",
+    "type": "Solution",
+    "name": "Munition Scoring System HMUSS",
+    "code": "hmuss"
+  },
+  "havelsan.com/en/solutions/national-tactical-environment-simulation": {
+    "url": "https://www.havelsan.com/en/solutions/national-tactical-environment-simulation",
+    "type": "Solution",
+    "name": "National Tactical Environment Simulation",
+    "code": "ntes"
+  },
+  "havelsan.com/en/solutions/naval-combat-operations-center-orchestration-concept": {
+    "url": "https://www.havelsan.com/en/solutions/naval-combat-operations-center-orchestration-concept",
+    "type": "Solution",
+    "name": "Naval Combat Operations Center Orchestration Concept",
+    "code": "ncococ"
+  },
+  "havelsan.com/en/solutions/naval-platform-systems": {
+    "url": "https://www.havelsan.com/en/solutions/naval-platform-systems",
+    "type": "Solution",
+    "name": "Naval Platform Systems",
+    "code": "naval"
+  },
+  "havelsan.com/en/solutions/peace-eagle-airborne-warning-and-control-system": {
+    "url": "https://www.havelsan.com/en/solutions/peace-eagle-airborne-warning-and-control-system",
+    "type": "Solution",
+    "name": "Peace Eagle Airborne Warning And Control System",
+    "code": "peawc"
+  },
+  "havelsan.com/en/solutions/rotary-wing-training-centers": {
+    "url": "https://www.havelsan.com/en/solutions/rotary-wing-training-centers",
+    "type": "Solution",
+    "name": "Rotary Wing Training Centers",
+    "code": "rwtc"
+  },
+  "havelsan.com/en/solutions/seda-sonar-integrated-submarine-command-and-control-system": {
+    "url": "https://www.havelsan.com/en/solutions/seda-sonar-integrated-submarine-command-and-control-system",
+    "type": "Solution",
+    "name": "Seda Sonar Integrated Submarine Command And Control System",
+    "code": "ssiscc"
+  },
+  "havelsan.com/en/solutions/special-purpose-training-centers": {
+    "url": "https://www.havelsan.com/en/solutions/special-purpose-training-centers",
+    "type": "Solution",
+    "name": "Special Purpose Training Centers",
+    "code": "sptc"
+  },
+  "havelsan.com/en/solutions/tactical-data-link-management-center": {
+    "url": "https://www.havelsan.com/en/solutions/tactical-data-link-management-center",
+    "type": "Solution",
+    "name": "Tactical Data Link Management Center",
+    "code": "tdlmc"
+  },
+  "havelsan.com/en/solutions/tactical-data-link-solutions": {
+    "url": "https://www.havelsan.com/en/solutions/tactical-data-link-solutions",
+    "type": "Solution",
+    "name": "Tactical Data Link Solutions",
+    "code": "tdls"
+  },
+  "havelsan.com/en/solutions/toraks-torpedo-fire-control-system": {
+    "url": "https://www.havelsan.com/en/solutions/toraks-torpedo-fire-control-system",
+    "type": "Solution",
+    "name": "Toraks Torpedo Fire Control System",
+    "code": "toraks"
+  },
+  "havelsan.com/en/solutions/virtual-maintenance-training-system": {
+    "url": "https://www.havelsan.com/en/solutions/virtual-maintenance-training-system",
+    "type": "Solution",
+    "name": "Virtual Maintenance Training System",
+    "code": "vmt"
+  }
+}

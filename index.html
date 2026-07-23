@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="HAVELSAN UTM link oluşturma aracı">
+  <title>HAVELSAN UTM Builder</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="app-shell">
+    <header class="app-header">
+      <div>
+        <p class="eyebrow">Campaign URL Tool</p>
+        <h1>HAVELSAN UTM Builder</h1>
+        <p class="subtitle">Landing URL'yi yapıştırın, UTM alanlarını seçin ve linki oluşturun.</p>
+      </div>
+      <button id="clearButton" class="button button-secondary" type="button">Clear</button>
+    </header>
+
+    <section class="panel">
+      <div class="field field-full">
+        <label for="landing">Landing URL <span>*</span></label>
+        <input id="landing" type="url" autocomplete="off"
+          placeholder="https://www.havelsan.com/en/products/..." />
+        <p id="status" class="status" aria-live="polite"></p>
+      </div>
+
+      <div class="detected-grid" aria-label="Detected page information">
+        <div class="info-card">
+          <span class="info-label">Page Type</span>
+          <strong id="pageType">—</strong>
+        </div>
+        <div class="info-card">
+          <span class="info-label">Product / Solution</span>
+          <strong id="pageName">—</strong>
+        </div>
+        <div class="info-card">
+          <label class="info-label" for="shortCode">Short Code</label>
+          <input id="shortCode" class="inline-input" autocomplete="off" placeholder="—" />
+        </div>
+      </div>
+
+      <div class="form-grid">
+        <div class="field">
+          <label for="medium">Medium <span>*</span></label>
+          <select id="medium">
+            <option value="">Seçiniz</option>
+            <option>PaidSearch</option>
+            <option>PaidSocial</option>
+            <option>Referral</option>
+            <option>Email</option>
+          </select>
+        </div>
+
+        <div class="field">
+          <label for="source">Source <span>*</span></label>
+          <select id="source">
+            <option value="">Seçiniz</option>
+            <option>Google</option>
+            <option>Facebook</option>
+            <option>Instagram</option>
+            <option>X</option>
+            <option>Linkedin</option>
+            <option>Press</option>
+          </select>
+        </div>
+
+        <div class="field field-full">
+          <div class="label-row">
+            <label for="campaign">Campaign <span>*</span></label>
+            <button id="suggestButton" class="text-button" type="button">Öneriyi yenile</button>
+          </div>
+          <input id="campaign" type="text" autocomplete="off"
+            placeholder="Örn. press_ffs_pressrelease" />
+          <p class="hint">Önerilen standart: lowercase, Türkçe karakter yok, boşluk yerine alt çizgi.</p>
+        </div>
+
+        <div class="field field-full">
+          <label for="result">Generated UTM URL</label>
+          <div class="result-wrap">
+            <textarea id="result" readonly placeholder="Oluşturulan UTM linki burada görünecek."></textarea>
+            <button id="copyButton" class="button button-secondary" type="button">Copy URL</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="actions">
+        <button id="generateButton" class="button button-primary" type="button">Generate URL</button>
+        <span id="feedback" class="feedback" aria-live="polite"></span>
+      </div>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
