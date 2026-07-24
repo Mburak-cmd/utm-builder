@@ -11,7 +11,6 @@
   <main class="app-shell">
     <header class="app-header">
       <div>
-        <p class="eyebrow">Campaign URL Tool</p>
         <h1>HAVELSAN UTM Builder</h1>
         <p class="subtitle">Landing URL'yi yapıştırın, UTM alanlarını seçin ve linki oluşturun.</p>
       </div>
@@ -58,7 +57,6 @@
           <select id="source">
             <option value="">Seçiniz</option>
             <option>Google</option>
-            <option>YouTube</option>
             <option>Facebook</option>
             <option>Instagram</option>
             <option>X</option>
@@ -68,7 +66,10 @@
         </div>
 
         <div class="field field-full">
-          <label for="campaign">Campaign <span>*</span></label>
+          <div class="label-row">
+            <label for="campaign">Campaign <span>*</span></label>
+            <button id="suggestButton" class="text-button" type="button">Öneriyi yenile</button>
+          </div>
           <input id="campaign" type="text" autocomplete="off"
             placeholder="Örn. press_ffs_pressrelease" />
           <p class="hint">Önerilen standart: lowercase, Türkçe karakter yok, boşluk yerine alt çizgi.</p>
@@ -84,6 +85,7 @@
       </div>
 
       <div class="actions">
+        <button id="generateButton" class="button button-primary" type="button">Generate URL</button>
         <span id="feedback" class="feedback" aria-live="polite"></span>
       </div>
     </section>
