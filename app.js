@@ -143,6 +143,7 @@ function generateUrl() {
 if (!landing || !medium || !source || !campaign) {
   result.value = "";
   $("feedback").textContent = "Zorunlu alanları doldurun.";
+  $("feedback").style.color = "#d32f2f";
 
   ["landing", "medium", "source", "campaign"].forEach((id) => {
     $(id).style.borderColor = $(id).value.trim() ? "" : "#d32f2f";
@@ -159,6 +160,7 @@ if (!landing || !medium || !source || !campaign) {
     result.value = url.toString();
     $("campaign").value = campaign;
     $("feedback").textContent = "UTM linki hazır.";
+    $("feedback").style.color = "#167347";
   } catch {
     result.value = "";
     $("feedback").textContent = "Geçerli bir Landing URL girin.";
