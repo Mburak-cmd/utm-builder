@@ -40,7 +40,7 @@ button,input,select,textarea{font:inherit}
 .eyebrow{
   margin:0 0 8px;font-size:12px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)
 }
-h1{margin:0;font-size:clamp(26px,4vw,38px);letter-spacing:-.03em}
+h1{margin:0;font-size:24px;letter-spacing:-.03em}
 .subtitle{margin:10px 0 0;color:var(--muted)}
 .panel{
   background:var(--panel);border:1px solid var(--border);border-radius:var(--radius);
