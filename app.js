@@ -31,23 +31,39 @@ function fallbackFromUrl(value) {
     const url = new URL(value.trim());
     const parts = url.pathname.split("/").filter(Boolean);
     const slug = parts.at(-1) || "";
-    const type = url.pathname.includes("/products/")
-      ? "Product"
-      : (url.pathname.includes("/solutions/") || url.pathname.includes("/cyber-security-services"))
-        ? "Solution"
-        : "Page";
+
+    const type = url.pathname.includes("/news/")
+      ? "News"
+      : url.pathname.includes("/products/")
+        ? "Product"
+        : (url.pathname.includes("/solutions/") ||
+           url.pathname.includes("/cyber-security-services"))
+          ? "Solution"
+          : "Page";
 
     const name = slug
       .split("-")
-      .filter((item) => item !== "en")
-      .map((item) => item.charAt(0).toUpperCase() + item.slice(1))
+      .map((item) =>
+        item.charAt(0).toUpperCase() + item.slice(1)
+      )
       .join(" ");
 
-    const excluded = new Set(["and","the","of","for","system","systems","platform","platforms","en"]);
-    const words = slug.split("-").filter((item) => item && !excluded.has(item));
-    const code = words.length === 1
-      ? words[0].slice(0, 12)
-      : words.map((item) => item[0]).join("").slice(0, 6);
+    const excluded = new Set([
+      "and", "the", "of", "for", "system", "systems",
+      "platform", "platforms", "en", "havelsan",
+      "delivered", "critical", "capabilities",
+      "air", "force"
+    ]);
+
+    const words = slug
+      .split("-")
+      .filter((item) => item && !excluded.has(item));
+
+    const code = type === "News"
+      ? words.slice(0, 2).join("_")
+      : words.length === 1
+        ? words[0].slice(0, 12)
+        : words.map((item) => item[0]).join("").slice(0, 6);
 
     return { type, name, code };
   } catch {
