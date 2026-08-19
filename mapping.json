@@ -515,4 +515,10 @@
     "name": "Virtual Maintenance Training System",
     "code": "vmt"
   }
+    "havelsan.com/en": {
+    "url": "https://www.havelsan.com/en",
+    "type": "Home",
+    "name": "Home Page",
+    "code": "homepage"
+  }
 }
