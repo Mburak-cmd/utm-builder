@@ -178,7 +178,6 @@ $("shortCode").addEventListener("input", () => refreshCampaignSuggestion());
 $("medium").addEventListener("change", () => refreshCampaignSuggestion());
 $("source").addEventListener("change", () => refreshCampaignSuggestion());
 $("campaign").addEventListener("input", () => { campaignWasEdited = true; });
-$("suggestButton").addEventListener("click", () => refreshCampaignSuggestion(true));
 $("generateButton").addEventListener("click", generateUrl);
 $("copyButton").addEventListener("click", copyUrl);
 $("clearButton").addEventListener("click", clearForm);
