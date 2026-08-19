@@ -140,11 +140,16 @@ function generateUrl() {
   const campaign = sanitizeCampaignPart($("campaign").value);
   const result = $("result");
 
-  if (!landing || !medium || !source || !campaign) {
-    result.value = "";
-    $("feedback").textContent = "Zorunlu alanları doldurun.";
-    return;
-  }
+if (!landing || !medium || !source || !campaign) {
+  result.value = "";
+  $("feedback").textContent = "Zorunlu alanları doldurun.";
+
+  ["landing", "medium", "source", "campaign"].forEach((id) => {
+    $(id).style.borderColor = $(id).value.trim() ? "" : "#d32f2f";
+  });
+
+  return;
+}
 
   try {
     const url = new URL(landing);
