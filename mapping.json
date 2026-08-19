@@ -281,6 +281,12 @@
     "name": "Vertical Wind Simulator",
     "code": "wind"
   },
+    "havelsan.com/en/products/usv-12": {
+    "url": "https://www.havelsan.com/en/products/usv-12",
+    "type": "Product",
+    "name": "Unmanned Surface Vehicle",
+    "code": "usv12"
+  },
   "havelsan.com/en/solutions/4th-generation-submarine-cms": {
     "url": "https://www.havelsan.com/en/solutions/4th-generation-submarine-cms",
     "type": "Solution",
@@ -496,6 +502,12 @@
     "type": "Solution",
     "name": "Toraks Torpedo Fire Control System",
     "code": "toraks"
+    },
+   "havelsan.com/en/solutions/integrated-security-solutions": {
+    "url": "https://www.havelsan.com/en/solutions/integrated-security-solutions",
+    "type": "Solution",
+    "name": "Integrated Security",
+    "code": "cfs"
   },
   "havelsan.com/en/solutions/virtual-maintenance-training-system": {
     "url": "https://www.havelsan.com/en/solutions/virtual-maintenance-training-system",
