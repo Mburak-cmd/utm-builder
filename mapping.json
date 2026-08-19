@@ -9,7 +9,7 @@
     "url": "https://www.havelsan.com/en/artemis-air-traffic-control-training-simulator",
     "type": "Page",
     "name": "Artemis Air Traffic Control Training Simulator",
-    "code": "aatcts"
+    "code": "artemis"
   },
   "havelsan.com/en/cyber-security-services": {
     "url": "https://www.havelsan.com/en/cyber-security-services",
@@ -39,13 +39,13 @@
     "url": "https://www.havelsan.com/en/cyber-security-services/information-systems-security-audit",
     "type": "Solution",
     "name": "Information Systems Security Audit",
-    "code": "isa"
+    "code": "isaudit"
   },
   "havelsan.com/en/poyraz-drone": {
     "url": "https://www.havelsan.com/en/poyraz-drone",
     "type": "Page",
     "name": "Poyraz Drone",
-    "code": "pd"
+    "code": "poyraz"
   },
   "havelsan.com/en/products/baha-subcloud-autonomous-uav": {
     "url": "https://www.havelsan.com/en/products/baha-subcloud-autonomous-uav",
@@ -69,25 +69,25 @@
     "url": "https://www.havelsan.com/en/products/bozbey-uav",
     "type": "Product",
     "name": "Bozbey UAV",
-    "code": "uav"
+    "code": "bozbey"
   },
   "havelsan.com/en/products/bulut-autonomous-uav": {
     "url": "https://www.havelsan.com/en/products/bulut-autonomous-uav",
     "type": "Product",
     "name": "Bulut Autonomous UAV",
-    "code": "uav"
+    "code": "bulut"
   },
   "havelsan.com/en/products/cabin-management-systems": {
     "url": "https://www.havelsan.com/en/products/cabin-management-systems",
     "type": "Product",
     "name": "Cabin Management Systems",
-    "code": "cm"
+    "code": "cabin"
   },
   "havelsan.com/en/products/caka-unmanned-surface-vehicles": {
     "url": "https://www.havelsan.com/en/products/caka-unmanned-surface-vehicles",
     "type": "Product",
     "name": "Caka Unmanned Surface Vehicles",
-    "code": "cusv"
+    "code": "caka"
   },
   "havelsan.com/en/products/data-flow-x-data-diode": {
     "url": "https://www.havelsan.com/en/products/data-flow-x-data-diode",
@@ -99,7 +99,7 @@
     "url": "https://www.havelsan.com/en/products/data-plato-analytics-platform",
     "type": "Product",
     "name": "Data Plato Analytics Platform",
-    "code": "dpa"
+    "code": "dataplato"
   },
   "havelsan.com/en/products/depo-secure-storage-sharing-platform": {
     "url": "https://www.havelsan.com/en/products/depo-secure-storage-sharing-platform",
@@ -123,19 +123,19 @@
     "url": "https://www.havelsan.com/en/products/eksen-software-development-infrastructure",
     "type": "Product",
     "name": "Eksen Software Development Infrastructure",
-    "code": "esdi"
+    "code": "eksen"
   },
   "havelsan.com/en/products/ethernet-switch": {
     "url": "https://www.havelsan.com/en/products/ethernet-switch",
     "type": "Product",
     "name": "Ethernet Switch",
-    "code": "es"
+    "code": "ethswitch"
   },
   "havelsan.com/en/products/evraka-electronic-document-management-system": {
     "url": "https://www.havelsan.com/en/products/evraka-electronic-document-management-system",
     "type": "Product",
     "name": "Evraka Electronic Document Management System",
-    "code": "eedm"
+    "code": "evraka"
   },
   "havelsan.com/en/products/eyeminer-video-analytic-system-iot": {
     "url": "https://www.havelsan.com/en/products/eyeminer-video-analytic-system-iot",
@@ -177,13 +177,13 @@
     "url": "https://www.havelsan.com/en/products/havelsan-timemaster",
     "type": "Product",
     "name": "Havelsan Timemaster",
-    "code": "ht"
+    "code": "timemaster"
   },
   "havelsan.com/en/products/in-flight-entertainment-systems": {
     "url": "https://www.havelsan.com/en/products/in-flight-entertainment-systems",
     "type": "Product",
     "name": "In Flight Entertainment Systems",
-    "code": "ife"
+    "code": "ifent"
   },
   "havelsan.com/en/products/joint-terminal-attack-controller-jtac-simulator": {
     "url": "https://www.havelsan.com/en/products/joint-terminal-attack-controller-jtac-simulator",
@@ -195,7 +195,7 @@
     "url": "https://www.havelsan.com/en/products/kapgan-middle-class-2-autonomous-ugv",
     "type": "Product",
     "name": "Kapgan Middle Class 2 Autonomous UGV",
-    "code": "ugv"
+    "code": "kapgan"
   },
   "havelsan.com/en/products/kasif-gis": {
     "url": "https://www.havelsan.com/en/products/kasif-gis",
@@ -219,7 +219,7 @@
     "url": "https://www.havelsan.com/en/products/liman-windows-linux-management-system",
     "type": "Product",
     "name": "Liman Windows Linux Management System",
-    "code": "lwlm"
+    "code": "linuxliman"
   },
   "havelsan.com/en/products/main-enterprise-ai-platform": {
     "url": "https://www.havelsan.com/en/products/main-enterprise-ai-platform",
@@ -237,7 +237,7 @@
     "url": "https://www.havelsan.com/en/products/parachute-simulator",
     "type": "Product",
     "name": "Parachute Simulator",
-    "code": "ps"
+    "code": "parachute"
   },
   "havelsan.com/en/products/prime": {
     "url": "https://www.havelsan.com/en/products/prime",
@@ -255,7 +255,7 @@
     "url": "https://www.havelsan.com/en/products/shooting-simulator",
     "type": "Product",
     "name": "Shooting Simulator",
-    "code": "ss"
+    "code": "shooting"
   },
   "havelsan.com/en/products/sniper-simulator": {
     "url": "https://www.havelsan.com/en/products/sniper-simulator",
@@ -279,7 +279,7 @@
     "url": "https://www.havelsan.com/en/products/vertical-wind-simulator",
     "type": "Product",
     "name": "Vertical Wind Simulator",
-    "code": "vws"
+    "code": "wind"
   },
   "havelsan.com/en/solutions/4th-generation-submarine-cms": {
     "url": "https://www.havelsan.com/en/solutions/4th-generation-submarine-cms",
@@ -327,13 +327,13 @@
     "url": "https://www.havelsan.com/en/solutions/cbrn-management-information-system",
     "type": "Solution",
     "name": "CBRN Management Information System",
-    "code": "cbrn_mis"
+    "code": "cbrn"
   },
   "havelsan.com/en/solutions/cengaver-digital-soldier": {
     "url": "https://www.havelsan.com/en/solutions/cengaver-digital-soldier",
     "type": "Solution",
     "name": "Cengaver Digital Soldier",
-    "code": "cds"
+    "code": "cengaver"
   },
   "havelsan.com/en/solutions/computer-based-training": {
     "url": "https://www.havelsan.com/en/solutions/computer-based-training",
@@ -345,13 +345,13 @@
     "url": "https://www.havelsan.com/en/solutions/doob-command-and-control-system",
     "type": "Solution",
     "name": "Doob Command And Control System",
-    "code": "dcc"
+    "code": "doob"
   },
   "havelsan.com/en/solutions/eagle-airborne-warning-and-command-control-system": {
     "url": "https://www.havelsan.com/en/solutions/eagle-airborne-warning-and-command-control-system",
     "type": "Solution",
     "name": "Eagle Airborne Warning And Command Control System",
-    "code": "eawcc"
+    "code": "eagle"
   },
   "havelsan.com/en/solutions/electronic-warfare-test-and-training-range-ewttr": {
     "url": "https://www.havelsan.com/en/solutions/electronic-warfare-test-and-training-range-ewttr",
@@ -369,25 +369,25 @@
     "url": "https://www.havelsan.com/en/solutions/fixed-wing-training-centers",
     "type": "Solution",
     "name": "Fixed Wing Training Centers",
-    "code": "fwtc"
+    "code": "fixedwing"
   },
   "havelsan.com/en/solutions/h-cms-holographic-combat-management-system": {
     "url": "https://www.havelsan.com/en/solutions/h-cms-holographic-combat-management-system",
     "type": "Solution",
     "name": "H CMS Holographic Combat Management System",
-    "code": "cms"
+    "code": "hcms"
   },
   "havelsan.com/en/solutions/have-holographic-air-virtual-environment": {
     "url": "https://www.havelsan.com/en/solutions/have-holographic-air-virtual-environment",
     "type": "Solution",
     "name": "Have Holographic Air Virtual Environment",
-    "code": "hhave"
+    "code": "have"
   },
   "havelsan.com/en/solutions/health-simulation-systems": {
     "url": "https://www.havelsan.com/en/solutions/health-simulation-systems",
     "type": "Solution",
     "name": "Health Simulation Systems",
-    "code": "hs"
+    "code": "hss"
   },
   "havelsan.com/en/solutions/hotbox-holographic-tactical-sandbox": {
     "url": "https://www.havelsan.com/en/solutions/hotbox-holographic-tactical-sandbox",
@@ -399,7 +399,7 @@
     "url": "https://www.havelsan.com/en/solutions/image-generating-software-mantis",
     "type": "Solution",
     "name": "Image Generating Software Mantis",
-    "code": "igsm"
+    "code": "mantis"
   },
   "havelsan.com/en/solutions/independent-fleet-level-mission-planning": {
     "url": "https://www.havelsan.com/en/solutions/independent-fleet-level-mission-planning",
@@ -459,19 +459,19 @@
     "url": "https://www.havelsan.com/en/solutions/peace-eagle-airborne-warning-and-control-system",
     "type": "Solution",
     "name": "Peace Eagle Airborne Warning And Control System",
-    "code": "peawc"
+    "code": "peagle"
   },
   "havelsan.com/en/solutions/rotary-wing-training-centers": {
     "url": "https://www.havelsan.com/en/solutions/rotary-wing-training-centers",
     "type": "Solution",
     "name": "Rotary Wing Training Centers",
-    "code": "rwtc"
+    "code": "rotarywing"
   },
   "havelsan.com/en/solutions/seda-sonar-integrated-submarine-command-and-control-system": {
     "url": "https://www.havelsan.com/en/solutions/seda-sonar-integrated-submarine-command-and-control-system",
     "type": "Solution",
     "name": "Seda Sonar Integrated Submarine Command And Control System",
-    "code": "ssiscc"
+    "code": "seda"
   },
   "havelsan.com/en/solutions/special-purpose-training-centers": {
     "url": "https://www.havelsan.com/en/solutions/special-purpose-training-centers",
@@ -483,7 +483,7 @@
     "url": "https://www.havelsan.com/en/solutions/tactical-data-link-management-center",
     "type": "Solution",
     "name": "Tactical Data Link Management Center",
-    "code": "tdlmc"
+    "code": "datalink"
   },
   "havelsan.com/en/solutions/tactical-data-link-solutions": {
     "url": "https://www.havelsan.com/en/solutions/tactical-data-link-solutions",
