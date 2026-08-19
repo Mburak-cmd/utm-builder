@@ -51,7 +51,7 @@ function fallbackFromUrl(value) {
     const excluded = new Set([
       "and", "the", "of", "for", "system", "systems",
       "platform", "platforms", "en", "havelsan",
-      "delivered", "critical", "capabilities",
+      "delivered","havelsans", "critical", "capabilities",
       "air", "force"
     ]);
 
