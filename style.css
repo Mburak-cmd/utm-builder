@@ -57,7 +57,7 @@ input,select,textarea{
 }
 input:focus,select:focus,textarea:focus{border-color:var(--accent);box-shadow:0 0 0 3px rgba(120,120,120,.15)}
 textarea{min-height:105px;resize:vertical;line-height:1.45}
-.status,.hint,.feedback{font-size:13px;color:var(--muted)}
+.feedback{font-size:16px;color:#d32f2f;font-weight:700}
 .status{min-height:18px;margin:8px 0 0}
 .status.success{color:var(--success)}
 .status.warning{color:var(--warning)}
